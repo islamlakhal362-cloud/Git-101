@@ -1,9 +1,10 @@
 #include <iostream>
 using namespace std;
 
-int main () {
+int main()
+{
 
-    cout << "Hello World!";
+    cout << "7adathani a7ado sofaha'a!";
 
     return 0;
 }
